@@ -6,7 +6,7 @@ I’m currently learning HTML, CSS, JavaScript, PHP, TypeScript and React.
 </div>
 <br />
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/gabrielbarbosa1999">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbarbosa1999&layout=compact&langs_count=7&theme=dracula"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielbarbosa1999&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
