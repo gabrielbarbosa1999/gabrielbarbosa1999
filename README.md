@@ -1,4 +1,4 @@
-I’m currently learning HTML, CSS, JavaScript, PHP, TypeScript and React.
+I’m currently learning HTML, CSS, JavaScript, Java, TypeScript and Angular.
 
 <div>
 <a href="https://instagram.com/gabrielbarboosa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
